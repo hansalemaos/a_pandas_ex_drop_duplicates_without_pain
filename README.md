@@ -1,7 +1,7 @@
 ## Installation
 
 ```python
-a-pandas-ex-drop-duplicates-without-pain 
+pip install a-pandas-ex-drop-duplicates-without-pain 
 ```
 
 ## Usage
